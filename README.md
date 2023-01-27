@@ -1,22 +1,20 @@
-### Hi there 👋
+# Oh, hello there!
 
-- 🔭 I’m currently working on completing my software engineering bootcamp!
+<img src="https://media.giphy.com/media/7Z1RrZ9XiNfZ6/giphy.gif" width="280" height="auto" />
 
-- 🌱 I’m currently learning React. And all the things.
+I guess you're here to see some of the code I've been working on. 👀 Have a look around!
 
-- 👯 I’m looking to collaborate on a project with awesome people.
+___
 
-- 🤔 I’m looking for help with improving my code quality.
+### Want to know more about me?
 
-- 💬 Ask me about changing careers from teaching to software engineering.
+I started learning to code in 🗓️ January 2022, when I made the decision to leave behind my career as a 👩‍🏫 teacher. I used to teach my young students coding skills with tools like Code.org and Scratch, and one day asked myself, "Why should they have all the fun?"
 
-- 📫 How to reach me: tmflower@gmail.com
+Fast forward to my first 🌍 "Hello World" and enrollment in a 👩‍💻 software engineering bootcamp with [Springboard](https://www.springboard.com). It's been an incredible 🧠 learning journey so far, and I'm excited for what lies ahead in my new career.
 
-- 😄 Pronouns: she/her
+I love solving problems and collaborating with others, and am 🤗 grateful for the opportunity I had to work on a team as a member of [The Collab Lab](https://the-collab-lab.codes/). You can find our team project with my contributions [here](https://github.com/the-collab-lab/tcl-47-smart-shopping-list).
 
-- ⚡ Fun fact: Once I was taken for a walk by an orangutan in Borneo. For real! 🦧 
-
-### :hammer_and_wrench: Languages and Tools :
+I'm always learning something new; these are the skills and tools I'm most experienced with so far:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,6 +29,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+I'm looking for my next opportunity and would love to hear from you!
+
+Let's get in touch: 📫 tmflower@gmail.com
+___
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tmflower&theme=dark&background=1D1F21)](https://git.io/streak-stats)
@@ -38,3 +40,11 @@
 <a href="https://github.com/tmflower/tmflower">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmflower&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5CE1E6&bg_color=1d1f21" alt="Tina's GitHub Stats" />
 </a>
+
+### Random
+When I'm not coding, I'm into:
+- 🚣‍♀️ Racing with my outrigger paddling team
+- 🏊‍♀️ Swimming
+- 🏃‍♀️ Running marathons
+- 😻 Quality time with SadieCat
+- 🥘 Cooking giant pots of soup
